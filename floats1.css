@@ -18,6 +18,7 @@
 	.flex-container {
 		display: flex;
 		justify-content: space-between;
+		border: 2px solid white;
 
 	}
 
@@ -39,8 +40,8 @@
 		text-align: center;
 		color:black;
 		background: #EAEAEA;
-		float: right;
 		width: 200px;
+		margin-left: 100px;
 	}
 
     .footer  {
